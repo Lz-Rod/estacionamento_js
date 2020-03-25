@@ -1,2 +1,5 @@
-# estacionamento_js
-sistema simples em JS para estacionamento
+# Sistema para estacionamento
+## Codificação em JS e HTML.
+Sistema simples com cadastro de veículo, placa e hora de entrada.
+
+

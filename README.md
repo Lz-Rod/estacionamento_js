@@ -1,5 +1,5 @@
 # Sistema para estacionamento
-## Codificação em JS e HTML.
+## Codificação em JS e HTML com Bootstrap.
 Sistema simples com cadastro de veículo, placa e hora de entrada.
 
 ![print sistema](https://github.com/LzRodriguez/estacionamento_js/blob/master/images/print_tela_sistema.jpg)
